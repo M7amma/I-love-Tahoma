@@ -1,0 +1,59 @@
+@font-face { font-family: 'Arial'; src: local('Tahoma'); }
+@font-face { font-family: 'Segoe UI'; src: local('Tahoma'); }
+@font-face { font-family: 'Helvetica'; src: local('Tahoma'); }
+@font-face { font-family: 'Helvetica Neue'; src: local('Tahoma'); }
+
+@font-face { font-family: 'Arial'; font-weight: 100; src: local('Tahoma Thin'); }
+@font-face { font-family: 'Segoe UI'; font-weight: 100; src: local('Tahoma Thin'); }
+@font-face { font-family: 'Helvetica'; font-weight: 100; src: local('Tahoma Thin'); }
+@font-face { font-family: 'Helvetica Neue'; font-weight: 100; src: local('Tahoma Thin'); }
+
+@font-face { font-family: 'Arial'; font-weight: 300; src: local('Tahoma Light'); }
+@font-face { font-family: 'Segoe UI'; font-weight: 300; src: local('Tahoma Light'); }
+@font-face { font-family: 'Helvetica'; font-weight: 300; src: local('Tahoma Light'); }
+@font-face { font-family: 'Helvetica Neue'; font-weight: 300; src: local('Tahoma Light'); }
+
+@font-face { font-family: 'Arial'; font-weight: 500; src: local('Tahoma Medium'); }
+@font-face { font-family: 'Segoe UI'; font-weight: 500; src: local('Tahoma Medium'); }
+@font-face { font-family: 'Helvetica'; font-weight: 500; src: local('Tahoma Medium'); }
+@font-face { font-family: 'Helvetica Neue'; font-weight: 500; src: local('Tahoma Medium'); }
+
+@font-face { font-family: 'Arial'; font-weight: 700; src: local('Tahoma Bold'); }
+@font-face { font-family: 'Segoe UI'; font-weight: 700; src: local('Tahoma Bold'); }
+@font-face { font-family: 'Helvetica'; font-weight: 700; src: local('Tahoma Bold'); }
+@font-face { font-family: 'Helvetica Neue'; font-weight: 700; src: local('Tahoma Bold'); }
+
+@font-face { font-family: 'Arial'; font-weight: 900; src: local('Tahoma Black'); }
+@font-face { font-family: 'Segoe UI'; font-weight: 900; src: local('Tahoma Black'); }
+@font-face { font-family: 'Helvetica'; font-weight: 900; src: local('Tahoma Black'); }
+@font-face { font-family: 'Helvetica Neue'; font-weight: 900; src: local('Tahoma Black'); }
+/* Italic variants */
+@font-face { font-family: 'Arial'; font-style: italic; src: local('Tahoma Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; src: local('Tahoma Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; src: local('Tahoma Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; src: local('Tahoma Italic'); }
+
+@font-face { font-family: 'Arial'; font-style: italic; font-weight: 100; src: local('Tahoma Thin Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; font-weight: 100; src: local('Tahoma Thin Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; font-weight: 100; src: local('Tahoma Thin Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; font-weight: 100; src: local('Tahoma Thin Italic'); }
+
+@font-face { font-family: 'Arial'; font-style: italic; font-weight: 300; src: local('Tahoma Light Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; font-weight: 300; src: local('Tahoma Light Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; font-weight: 300; src: local('Tahoma Light Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; font-weight: 300; src: local('Tahoma Light Italic'); }
+
+@font-face { font-family: 'Arial'; font-style: italic; font-weight: 500; src: local('Tahoma Medium Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; font-weight: 500; src: local('Tahoma Medium Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; font-weight: 500; src: local('Tahoma Medium Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; font-weight: 500; src: local('Tahoma Medium Italic'); }
+
+@font-face { font-family: 'Arial'; font-style: italic; font-weight: 700; src: local('Tahoma Bold Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; font-weight: 700; src: local('Tahoma Bold Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; font-weight: 700; src: local('Tahoma Bold Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; font-weight: 700; src: local('Tahoma Bold Italic'); }
+
+@font-face { font-family: 'Arial'; font-style: italic; font-weight: 900; src: local('Tahoma Black Italic'); }
+@font-face { font-family: 'Segoe UI'; font-style: italic; font-weight: 900; src: local('Tahoma Black Italic'); }
+@font-face { font-family: 'Helvetica'; font-style: italic; font-weight: 900; src: local('Tahoma Black Italic'); }
+@font-face { font-family: 'Helvetica Neue'; font-style: italic; font-weight: 900; src: local('Tahoma Black Italic'); }
